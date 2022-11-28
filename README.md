@@ -1,15 +1,14 @@
 # Hi there 👋
 
-I'm Adriana. Currently:
+I'm Adriana. Frontend developer slowly becoming fullstacker💻. Currently:
 
 - 🔭 Working at NTT DATA
-- 🌱 Learning Netlify
+- 🌱 Learning Headless CMS such as Netlify
 <!-- - 💬 Ask me about ...
 - 📫 How to reach me: ... -->
 
-## Things I code with
+## Technologies
 
-<br>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -26,11 +25,7 @@ I'm Adriana. Currently:
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<br>
-
 ## Contact
-
-<br>
 
 &nbsp;&nbsp;
 [![twitter](./img/twitter-light.svg)](https://twitter.com/adri_developer#gh-light-mode-only)
@@ -39,8 +34,5 @@ I'm Adriana. Currently:
 [![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/adrianabasterra/#gh-light-mode-only)
 [![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/adrianabasterra/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![github](./img/github-light.svg)](https://www.github.com/in/adribasterra/#gh-light-mode-only)
-[![github](./img/github-dark.svg)](https://www.github.com/in/adribasterra/#gh-dark-mode-only)
-
-<br/>
-<br/>
+[![github](./img/github-light.svg)](https://www.github.com/adribasterra/#gh-light-mode-only)
+[![github](./img/github-dark.svg)](https://www.github.com/adribasterra/#gh-dark-mode-only)
