@@ -3,7 +3,7 @@
 I'm Adriana. Frontend developer slowly becoming fullstacker💻. Currently:
 
 - 🔭 Working at NTT DATA
-- 🌱 Learning Headless CMS such as Netlify
+- 🌱 Looking forward to learn NextJS, Svelte and Ramda
 <!-- - 💬 Ask me about ...
 - 📫 How to reach me: ... -->
 
